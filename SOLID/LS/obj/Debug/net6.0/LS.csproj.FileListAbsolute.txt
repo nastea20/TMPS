@@ -1,0 +1,15 @@
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\bin\Debug\net6.0\LS.exe
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\bin\Debug\net6.0\LS.deps.json
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\bin\Debug\net6.0\LS.runtimeconfig.json
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\bin\Debug\net6.0\LS.dll
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\bin\Debug\net6.0\ref\LS.dll
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\bin\Debug\net6.0\LS.pdb
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\obj\Debug\net6.0\LS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\obj\Debug\net6.0\LS.AssemblyInfoInputs.cache
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\obj\Debug\net6.0\LS.AssemblyInfo.cs
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\obj\Debug\net6.0\LS.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\obj\Debug\net6.0\LS.dll
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\obj\Debug\net6.0\ref\LS.dll
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\obj\Debug\net6.0\LS.pdb
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\obj\Debug\net6.0\LS.genruntimeconfig.cache
+C:\Users\Anastasia\source\repos\ConsoleApp7\LS\obj\Debug\net6.0\LS.csproj.AssemblyReference.cache

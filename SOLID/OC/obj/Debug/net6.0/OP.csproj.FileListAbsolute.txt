@@ -1,0 +1,14 @@
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\bin\Debug\net6.0\OP.exe
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\bin\Debug\net6.0\OP.deps.json
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\bin\Debug\net6.0\OP.runtimeconfig.json
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\bin\Debug\net6.0\OP.dll
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\bin\Debug\net6.0\ref\OP.dll
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\bin\Debug\net6.0\OP.pdb
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\obj\Debug\net6.0\OP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\obj\Debug\net6.0\OP.AssemblyInfoInputs.cache
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\obj\Debug\net6.0\OP.AssemblyInfo.cs
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\obj\Debug\net6.0\OP.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\obj\Debug\net6.0\OP.dll
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\obj\Debug\net6.0\ref\OP.dll
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\obj\Debug\net6.0\OP.pdb
+C:\Users\Anastasia\source\repos\ConsoleApp7\ConsoleApp1\obj\Debug\net6.0\OP.genruntimeconfig.cache
